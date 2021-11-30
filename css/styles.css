@@ -1,0 +1,59 @@
+p {
+  font-size: 35px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  color: #142F43;
+  width: 10%;
+  border-width: 8px;
+  height: 4;
+}
+
+body {
+  background-image:linear-gradient(#98BAE7, #FFAFAF 100%, #FFAFAF 5px);
+}
+
+h1 {
+  font-size: 40px;
+  font-family: "lucida sans";
+  color: #864879;
+  /* border-style: dotted;
+  border-top-style:dotted;
+  border-bottom-style: dotted;
+  border-color:  #F3950D;
+  width: 100%;
+  border-width: thick; */
+}
+
+p {
+  font-family: "fantasy";
+  color: #000D6B;
+  font-size: 30px;
+}
+
+h4 {
+  font-size: 26px;
+  font-family: "lucida sans";
+  color: #864879;
+}
+
+li {
+  font-size: 40px;
+  color: #000957;
+}
+td{
+  font-size:20px;
+  font-family:"papyrus";
+}
+h5{
+  font-size: 19px;
+  font-family: "lucida sans";
+  color: #864879;
+  border-style: none;
+}
+th{
+  font-size: 19px;
+  color: #000957;
+}
